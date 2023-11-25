@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+constant.js
+npm-debug.log
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+lib/
+bin/
+dist/
